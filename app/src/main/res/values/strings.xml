@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Smart Kido</string>
+
+    <string name="first_name_edit_text_hint">First Name</string>
+    <string name="last_name_edit_text_hint">Last Name</string>
+    <string name="email_edit_text_hint">Email</string>
+    <string name="password_edit_text_hint">Password</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in.</string>
+    <string name="sign_up_now">Sign Up Now !</string>
+    <string name="login_now">Login Now</string>
+    <string name="forgot_password" tools:ignore="ExtraTranslation">Forgot Password ?</string>
+    <string name="Play">Play</string>
+
+</resources>

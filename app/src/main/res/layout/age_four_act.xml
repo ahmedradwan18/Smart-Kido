@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F1F1"
+    android:orientation="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Physical \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="'While every child develops at their own pace, there are certain milestones I expect most of my patients
+(90 to 95 percent) to achieve by their fourth birthday' By four years of age, a child can balance for at
+least three seconds on one foot, walk on a 'tightrope,' and hop on one foot. A 4-year-old can also copy
+a cross, draw a square, and draw something that looks like a person. She can definitely zip up her coat
+and work buttons.\n \nAnd If your 4-year-old cannot walk upstairs without assistance, or run, that warrants a discussion with
+your pediatrician, as We sometimes see children who are a bit behind in physical development, but way
+ahead in language, fine motor, and social skill development \n\nThe lack of development isn&#39;t always because of delay. &quot;It could be a lack of motivation on the child&#39;s
+part. Take a look at his surroundings: Does he have too many toys? Does he not spend enough time with
+other kids? Is he inside most of the time and does he need space to run around outside? Reaching these
+milestones isn&#39;t just about ability -- its ability coupled with motivation."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Behavior \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+      android:text="A 4-year-old is all about testing boundaries. &quot;Following direction can be a challenge because the child is
+exerting his independence,&quot; says Carl Sheperis, Ph.D., the director of doctoral programs for Walden
+Universities of Counseling and Social Service. &quot;And while you want to encourage that, there obviously
+needs to be rules to follow.&quot; Be sure you acknowledge how your child is feeling yet remain firm about
+the rules you are setting. Consistency lets a child know what to expect and can help prevent meltdowns.\n\n
+Your 4-year-old has probably started school at this point, and with that comes a problem many parents
+worry about: &quot;It starts early,&quot; says Dr. Sheperis. &quot;That&#39;s why it&#39;s important to give your child the
+opportunity to interact with other kids from an early age. Parents need to keep an eye on how their kids
+behave with others, and when there is a negative interaction, the child loses a privilege. But be sure to
+catch good behavior too. When your child is playing nicely with others, be sure to compliment that so
+that you reinforce that positive interaction.&quot;"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Language: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Your child should be speaking clearly, with everyone able to understand the majority of what he&#39;s
+saying. &quot;There are some sounds that might be difficult for him, particularly &#39;R,&#39; &#39;S&#39; and &#39;Th,&#39;&quot; says Lauren
+Krause, Chief of Speech-Language Pathology at La Rabida Children&#39;s Hospital in Chicago, IL. &quot;But by age
+four, 90 percent of kids can pronounce all of their words clearly.&quot; Don&#39;t be too concerned if your child
+has a slight lisp -- it&#39;s normal in some kids up until the age of six. Continue to encourage your child to
+learn new words and improve pronunciation through pretend play, says Krause. &quot;Playing out scenarios
+with your kids is a great way to promote vocabulary development. It can also help them become more
+familiar with their emotions, so they are better able to express themselves.&quot;\nPreschool will also help with your child&#39;s language development. He&#39;ll no doubt be learning his letters,
+numbers and colors. &quot;Preschoolers are taught songs and even poems that they can recite by heart,&quot; says
+Krause. &quot;This can also help language development.&quot;"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Your child&#39;s well-check visit will include weighing and measuring to make sure he&#39;s growing at a healthy
+rate. A 4-year-old gains about four pounds and grows about two inches during the year. The pediatrician
+will check immunization records and give any shots needed to start, including the DTaP, polio, MMR,
+and varicella (chicken pox) vaccines. Depending on which state you live in, your child may receive the
+hepatitis A vaccine.\n\nThe doctor will draw blood for a lead test if you live in a high-risk area for lead poisoning and perform
+vision and hearing tests. Questions he might ask include:\n\n
+How is your child eating?\n\nHow is he sleeping?\n\n
+Has he started preschool? If so, how is that going?\n\n
+What kinds of activities does he like to do? The doctor might speak to you about safety precautions.
+\n\n\nIf your child hasn&#39;t given up the pacifier or thumb-sucking, it&#39;s time to nip this in the bud. According to
+the American Academy of Pediatric Dentistry, most children stop sucking on thumbs, pacifiers, or other
+objects on their own between 2 and 4 years of age, but some continue these habits over long periods of
+time. As a result, the upper front teeth may tip toward the lip or not come in properly. Frequent or
+intense habits can how the child&#39;s teeth bite together, as well as the growth of the jaws and bones that
+support the teeth."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nutrition: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="A 4-year-old can enjoy adult-size portions (we have a tendency to super- size things, so make sure it&#39;s a
+reasonable amount of food). Two big factors are sweets and snacking, says Amy Marlow, as an advisor
+for Happy Family, the nation&#39;s leading premium organic baby and toddler food maker. &quot;Kids this age will
+start to request certain foods -- and they&#39;re usually items that aren&#39;t good for them. You want to make
+sure they&#39;re still being offered healthy, nutritious foods at home.&quot;\n\n\nWatch out for excessive snacking, which kids often do after. &quot;Kids don&#39;t need to snack consistently at
+this age -- just a small snack when they come home is more than enough,&quot; says Marlow. She
+recommends a half-cup of fruit, veggies, and hummus, or a handful of whole grain crackers.
+\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sleeping: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="A child at age 4 years needs 11? hours at night. The big news: The majority of kids have given up
+napping, but that doesn&#39;t mean they don&#39;t need some rest during the day. &quot;Once your child gives up the
+daily nap, make sure he has some quiet time in the late afternoon -- looking at books in his room, for
+example -- and move his bedtime up by about one hour,&quot; says Kim West, LCSW-C, aka The Sleep Lady.\n\n
+Kids are in preschool or Pre-K by this age and school plays a factor in a child&#39;s sleep schedule. You should
+have your child up in the morning between 6 A.M. and 7:30 A.M. &quot;Watch for sleep cues like yawning,
+eye-rubbing, thumb-sucking, or crankiness,&quot; says West. &quot;If your tot gets that cortisol-fueled second
+wind, start getting him to bed a half-hour or so earlier from now on. If he starts nodding off during his
+bedtime routine or falls asleep the very second you turn out the lights, you&#39;re probably putting him to
+bed too late, so move bedtime earlier by 15 to 30 minutes.&quot; What if your little one is waking up at the
+crack of dawn, ready to play or watch TV? That&#39;s also a sign he&#39;s going to bed too late, says West.
+&quot;Anything before 6 A.M. is too early,&quot; she explains.\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social development: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Your child is probably in preschool, and some kids have a harder time than others adjusting to the social
+dynamics of this new experience. &quot;Preschool is, of course, about learning how to get along well with
+others, to make friends, and to play,&quot; says Jessica Mercer Young, Ph.D., a research scientist at education
+Development Center in Newton, MA. &quot;If your child is having a hard time in school, it may help to have
+her bring in something that they are interested in from home.&quot; A favorite book about a topic your child
+particularly enjoys may engage other children. This can help open up opportunities to talk with other
+children and find others who also love, for instance, dinosaurs or fairies. &quot;Just be sure to check with your
+preschool about what is allowed, as sometimes toys from home are not welcome,&quot; says Dr. Young.\n\n\n
+Avoid labeling your child as &quot;shy,&quot; especially when you&#39;re speaking in front of her. You don&#39;t want her to
+feel that there is anything wrong with her behavior -- it could be that she simply needs some time to
+warm up to new people and situations.\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Education: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Children need to learn self-help skills such as serving food to themselves
+using a spoon or fork and stuff like that. And &quot;While the school is there
+to teach this, as a parent, I&#39;d rather they concentrate on academic-type
+subjects like colors and numbers than self-help skills.&quot;\n\n\n
+Another important self-help skill is good bathroom hygiene. Girls should
+learn to wipe front to back, and both boys and girls should learn good\n\n
+hand-washing skills. &quot;The child who does not wash his or her hands after
+going to the bathroom is subject to more health risks than the child who
+didn&#39;t truly understand colors the first time through,&quot; explains Cooper.\n\n\nOn the academic front, a 4-year-old will learn comparisons, like big and
+small, and long and short. He should also learn his full name, age,
+gender, address, and phone number -- very important in case a child is
+lost or gets separated from you in a store."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+
+</LinearLayout>
+</ScrollView>

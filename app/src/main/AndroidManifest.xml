@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.elasdka2.myapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/logo2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".ChildCategories"
+            android:theme="@style/AppBarTheme"/>
+        <activity android:name=".ChildAges"
+                  android:theme="@style/AppBarTheme">
+
+        </activity>
+        <activity android:name=".YoutubeVideos" />
+        <activity
+            android:name=".Login"
+            android:windowSoftInputMode="stateHidden|adjustResize"></activity>
+        <activity
+            android:name=".SignUp"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+
+        </activity>
+        <activity android:name=".Pregnancy"
+            android:theme="@style/AppBarTheme"/>
+        <activity android:name=".Categories"
+                  android:theme="@style/AppBarTheme"/>
+        <activity android:name=".Parents"
+                  android:theme="@style/AppBarTheme">
+
+        </activity>
+        <activity android:name=".Age_One"
+            android:theme="@style/AppBarTheme"/>
+        <activity android:name=".Age_Two"
+            android:theme="@style/AppBarTheme"/>
+        <activity android:name=".Age_Three"
+            android:theme="@style/AppBarTheme"/>
+        <activity android:name=".Age_Four"
+            android:theme="@style/AppBarTheme"/>
+        <activity android:name=".Age_Five"
+            android:theme="@style/AppBarTheme"/>
+        <activity android:name=".NotificationInstruction" />
+        <activity
+            android:name=".YoutubeSkills"
+            android:configChanges="orientation|screenSize|locale" />
+        <activity
+            android:name=".YoutubeSongs"
+            android:configChanges="orientation|screenSize|locale" />
+        <activity
+            android:name=".YoutubeStories"
+            android:configChanges="orientation|screenSize|locale" />
+        <activity
+            android:name=".painting"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <receiver
+            android:name=".BroadCastReceiver.AlarmReceiver"
+            tools:ignore="InnerclassSeparator" />
+
+        <service android:name=".BroadCastReceiver.NotificationAlarmService" />
+    </application>
+
+</manifest>

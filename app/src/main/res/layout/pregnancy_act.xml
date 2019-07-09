@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#F1F1F1"
+    android:orientation="vertical"
+    tools:context=".Pregnancy">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"
+            android:text="Pregnancy Mother"
+            android:textColor="#000000"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Diet ->
+
+The type of diet we encourage during pregnancy refers to fine-tuning your eating habits to ensure you are receiving adequate nutrition for the health of you and your baby. Healthy eating during pregnancy is critical to your baby’s growth and development. In order to get the nutrients you need, you must eat from a variety of food groups, including fruits and vegetables, breads and grains, protein sources and dairy products. Typically, you will need to consume an extra 300 calories a day.   "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="First trimester meal plan  ->
+
+You’re feeling nauseous, exhausted and have terrible heartburn. Most women at this stage in pregnancy find meals a chore and food unappealing. Choose foods that are easy to prepare and not too strong in aroma or flavour. Pieces of protein (a steak or a chicken breast) are unappealing, so slice up large pieces or stick to less offensive sources of protein such as beans, eggs, cheese and lentils. Currently, the baby’s nervous system is developing and folic acid (found in eggs, green leafy vegetables and wholegrains) is particularly important. During the first trimester, you don’t necessarily need to gain more than one to two kilograms and you only need an extra 1200 kilojoules per day. "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic"
+
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Second trimester meal plan ->
+
+This trimester is often known as the honeymoon trimester – your morning sickness has (hopefully) gone and you are not feeling too uncomfortable in size yet. During this trimester, it is particularly important that you get sufficient protein and calcium to support your baby’s growth. Focus on meat, chicken, fish, beans and other legumes, eggs and dairy. You can now eat approximately an additional 1700 kilojoules per day to accommodate your baby’s growth. "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Third trimester meal plan ->
+
+It’s the final stretch and with it comes a host of other complaints such as swollen ankles, heartburn (if you didn’t have it already), insomnia and loss of appetite (due to the baby pushing up on your stomach, leaving less room for food). Focus on small, regular meals and be sure to drink at least two liters of water per day to combat water retention and aid swollen ankles. This trimester you should be having an extra 2000 kilojoules per day. "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic"
+
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Pregnant women need to ensure that their diet provides enough nutrients and energy for the baby to develop and grow properly. They also need to make sure that her body is healthy enough to deal with the changes that are occurring. For a healthy pregnancy, the mother's diet needs to be balanced and nutritious - this involves the right balance of proteins, carbohydrates, and fats, and consuming a wide variety of plants like vegetables, and fruits. Some women's diets may be impacted by ethical beliefs, religious requirements, or health conditions, so checking with a doctor is an important part of planning a pregnancy diet. "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="You don't need to spend lots of money, or go on a special diet – you just need a balance of the right types of food.\n \n These include: \n
+
+- Fruit and vegetables  \n
+
+Aim to eat at least 5 portions of fruit and veg a day. Fresh, frozen, canned, dried or juiced can be part of your daily allowance – try to avoid anything with added salt or sugar. \n
+
+\n - Starchy foods (carbohydrates) \n
+
+These types of food are an important source of energy, certain vitamins and fibre. They include bread, potatoes, breakfast cereals, rice, pasta and noodles. Opt for wholemeal instead of refined, starchy (white) versions, when possible. \n
+
+\n - Protein  \n
+
+Foods in this group include meat (avoid liver), fish, poultry, eggs, beans, pulses and nuts. Protein provides the building blocks for your baby to grow. aim to have 2 portions of fish each week. Make one of them an oily fish like salmon, sardines or mackerel. There are some types of fish you should avoid (shark, swordfish and marlin) if you're pregnant, or trying to conceive
+
+eggs produced under the British Lion Code of Practice (stamped with the red lion) are considered very low risk for salmonella, and safe for pregnant women to eat raw or partially cooked \n
+
+\n - Dairy products \n
+
+Dairy includes milk, cheese and yoghurt. These products contain calcium and other essential nutrients. When possible, choose low-fat varieties, such as semi-skimmed, 1% fat or skimmed milk, low-fat yoghurt and reduced-fat hard cheese. If you prefer dairy alternatives, such as soya drinks and yoghurts, opt for unsweetened, calcium-fortified versions. "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="No need to 'eat for two'
+
+You will probably find that you are hungrier than usual, but you don't need to ' eat for two' – even if you are expecting twins or triplets.
+
+Try to have a healthy breakfast every day, because this can help you to avoid snacking on foods that are high in fat and sugar.
+
+Eating healthily often means just changing the amounts of different foods you eat so that your diet is varied, rather than cutting out all your favourites. You can use the Eatwell Guide to get the balance of your diet right. It shows you how much of what you eat should come from each food group to achieve a healthy, balanced diet.
+
+You don't need to achieve this balance with every meal, but try to get the balance right over a week. "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:text="Foods to limit"
+            android:textColor="#000000"
+            android:textSize="36sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Caffeine:
+
+Consuming fewer than 200 mg of caffeine a day, which is the amount found in one 12-ounce cup of coffee, is generally considered safe during pregnancy, according to a 2010 ACOG committee opinion, which was reaffirmed in 2013. The committee report said moderate caffeine consumption during pregnancy does not appear to contribute to miscarriage or premature birth"
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Fish:
+Fish is a good source of lean protein, and some fish, including salmon and sardines, also contain omega-3 fatty acids, a healthy fat that's good for the heart. It is safe for pregnant women to eat 8 to 12 ounces of cooked fish and seafood a week, according to ACOG. However, they should limit albacore or '
+         tuna, which has high levels of mercury, to no more than 6 ounces a week, according to ACOG. Mercury is a metal that can be harmful to a baby's developing brain. Canned light tuna has less mercury than albacore 'white' tuna and is safer to eat during pregnancy.
+        "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:text="Foods to avoid "
+            android:textColor="#000000"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Alcohol:
+
+Avoid alcohol during pregnancy, Krieger advised. Alcohol in the mother's blood can pass directly to the baby through the umbilical cord. Heavy use of alcohol during pregnancy has been linked with fetal alcohol spectrum disorders, a group of conditions that can include physical problems, as well as learning and behavioral difficulties in babies and children, according to the Centers for Disease Control and Prevention (CDC). "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Fish with high levels of mercury:
+
+Seafood such as swordfish, shark, king mackerel, marlin, orange roughy and tilefish are high in levels of methyl mercury, according to the Academy of Nutrition and Dietetics, and should be avoided during pregnancy. Methyl mercury is a toxic chemical that can pass through the placenta and can be harmful to an unborn baby's developing brain, kidneys and nervous system.
+
+ "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="Unpasteurized food:
+
+According to the USDA, pregnant women are at high risk for getting sick from two different types of food poisoning: listeriosis, caused by the Listeria bacteria, and toxoplasmosis, an infection caused by a parasite.
+
+
+
+The CDC says that Listeria infection may cause miscarriage, stillbirth, preterm labor, and illness or death in newborns. To avoid listeriosis, the USDA recommends avoiding the following foods during pregnancy:
+
+
+
+Unpasteurized (raw) milk and foods made from it, such as feta, Brie, Camembert, blue-veined cheeses, queso blanco and queso fresco. Pasteurization involves heating a product to a high temperature to kill harmful bacteria.
+
+Hot dogs, luncheon meats and cold cuts unless heated to steaming hot before eating to kill any bacteria.
+
+Store-bought deli salads, such as ham salad, chicken salad, tuna salad and seafood salad.
+
+Unpasteurized refrigerated meat spreads or pates.
+
+Raw meat:
+
+A mother can pass a Toxoplasma infection on to her baby, which can cause problems such as blindness and mental disability later in life, reports the CDC. To prevent toxoplasmosis, the USDA recommends avoiding the following foods during pregnancy:
+
+
+
+Rare, raw or undercooked meats and poultry.
+
+Raw fish, such as sushi, sashimi, ceviches and carpaccio.
+
+Raw and undercooked shellfish, such as clams, mussels, oysters and scallops.
+
+Some foods may increase a pregnant woman's risk for other types of food poisoning, including illness caused by salmonella and E. coli bacteria. Foodsafety.gov lists these foods to avoid during pregnancy, and why they pose a threat:
+
+
+
+Raw or undercooked eggs, such as soft-cooked, runny or poached eggs.
+
+Foods containing undercooked eggs, such as raw cookie dough or cake batter, tiramisu, chocolate mousse, homemade ice cream, homemade eggnog, Hollandaise sauce.
+
+Raw or undercooked sprouts, such as alfalfa, clover.Unpasteurized juice or cider. "
+            android:textColor="#5F5B5B"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+</ScrollView>

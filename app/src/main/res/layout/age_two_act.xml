@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F1F1"
+    android:orientation="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Physical Development: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="At around two years of age, a child should be able to have enough balance to jump up, with both her
+feet leaving the ground. She can climb a staircase holding onto the railing, using one foot at a time. She
+can make scribbles (straight lines) holding a pencil. She may not have a preference for either the right
+hand or the left hand at this age, or she may start to favor one hand over another. She can feed herself
+pretty well now, getting most of the food in her mouth, but she is by no means a neat or willing eater.
+She can stack a tower of blocks pretty high -- at least eight to ten blocks.\n\n
+&quot;Encourage your child to achieve her physical development goals by playing with her,&quot; says Brenda
+Rogers, M.D., a general pediatrician at Children&#39;s Mercy Hospitals and Clinics in Kansas City, Missouri.
+&quot;Go outside and play ball. Hop around the yard or play follow the leader, encouraging your child to
+perform new physical activities. The park is a great place to socialize and let your child see other children
+performing new activities. Just be creative and have fun!&quot;\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Behavior \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="We&#39;ve all heard of the terrible twos, and there are some days you might feel like you&#39;re experiencing
+them firsthand. A parent&#39;s greatest source of stress: tantrums. If your child is having them, you&#39;re not
+alone -- they&#39;re normal for this age group and a part of the process of your child trying to become
+independent and testing boundaries (mainly yours).\n\nTantrums can also take place because your child doesn&#39;t understand his emotions yet and hasn&#39;t fully
+developed the verbal skills to express his anger, frustration, fear, and other emotions. &quot;A good way to
+deal with a tantrum is through distraction,&quot; says Carl Sheperis, Ph.D., the director of doctoral programs
+for Walden University&#39;s School of Counseling and Social Service. &quot;It&#39;s not punishment -- it&#39;s simply
+removing your child from the stimulant that is triggering the bad behavior.&quot;\n\n
+Two-year-olds also have a better sense of their own personal belongings, which causes them to be
+hesitant to share with other kids. You can model good behavior by letting your child see Mom and Dad
+sharing (a cookie, the newspaper, the remote control). But keep in mind that a child technically does not
+truly understand the concept of sharing until about age five, says Sara Lise Raff, an educational
+consultant.\n\nAnd remember, a 2-year-old&#39;s behavior isn&#39;t all bad: Your toddler loves physical affection and can even
+return those hugs and kisses back to you. He also does better when he knows what comes next, so a
+consistent schedule is still important at this age.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Language \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Twenty-four months is the &quot;magic&quot; number in terms of deciding if a child is on track with
+speech or is a &quot;late talker,&quot; says Lauren Krause, Chief of Speech-Language Pathology at
+La Rabida Children&#39;s Hospital in Chicago, IL. This is one reason why many children are
+tested and diagnosed with a speech delay during their second year. &quot;By 24 months, your
+child should have a vocabulary of 50 words, such as &#39;more,&#39; &#39;juice&#39; and &#39;Grandma.&#39;&quot;
+During the course of his second year, you should also notice him putting together two-
+word sentences (&quot;My ball.&quot; &quot;Car go.&quot;). Don&#39;t worry about pronunciation at this point --
+only about 50 percent of what he says will be completely understandable. &quot;There really
+is no reason to worry unless the child is not making any consonant sounds and it all still
+sounds like babbling,&quot; says Krause.\n\nA cause for concern would be if your child is not responding to you. &quot;If you notice you
+have to repeat something three or four times, or your child continually ignores you when
+you speak to him, that is a red flag,&quot; says Krause. &quot;Many parents will say, &#39;Oh, I think
+he&#39;s just lazy,&#39; but I&#39;ve found that isn&#39;t the case with most children. Most want to engage
+with their parents and others.&quot;\n\nOne culprit could be a middle inner ear infection; another is a speech delay. In either
+case, consult with your child&#39;s pediatrician and trust your gut. &quot;Even if the doctor thinks
+it&#39;s nothing to be concerned about, if you feel there might be a delay, get it checked,&quot;
+says Krause.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="This age can be quite a challenge for parents, so you&#39;re likely to have lots of questions for your child&#39;s
+pediatrician about talking, tantrums, and more. In turn, the doctor will likely have some questions for
+you, especially regarding your little one&#39;s routine. &quot;Having an established daily routine is really
+important to a child this age,&quot; says Nora Carrillo, a specialist for the medical model of child development
+at Phoenix Children&#39;s Hospital in Phoenix, AZ. &quot;We&#39;ve found that it&#39;s helpful in preventing tantrums and
+outbursts because a child wants to know what to expect.&quot;\n\nThis is also the time when autism is likely to be diagnosed, so the doctor will give you a questionnaire
+called the M-Chat, which is used to test children between 16 and 30 months of age to assess the risk for
+autism spectrum disorders.\n\nAlso, your child will be weighed and measured. During this second year of life, your toddler may gain
+between three and five pounds. By age two, both boys and girls will stand about 34 inches tall and
+weigh about 27 to 28 pounds, on average. The vaccination schedule will also be addressed. The doctor
+will also:\nAsk you about your child&#39;s eating and sleeping habits.\nFind out about his physical activities (walking, running, jumping, etc.), as well as how often he gets to
+interact with other kids.\nAsk how many words your child can say and if she is starting to string two words together (there&#39;s more
+on that in Speech section). He&#39;ll also want to know if she can follow two-step commands.\nDraw blood for a lead test, especially if you live in a high-risk area for lead poisoning. He might also
+request a urine sample.\nCheck your child&#39;s vision and hearing.\nAddress any concerns about discipline, potty training, and socialization.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nutrition \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="The typical serving size for a 2-year-old is one-quarter to one-half of an adult portion. A serving of fruits
+or veggies is usually between a couple of tablespoons and a quarter cup.\n
+You might notice your child is now a pickier eater than he was before, which is normal for this age, says
+Amy Marlow, a New York-based registered dietician and certified nutritionist serving as an advisor for
+Happy Family, the nation&#39;s leading premium organic baby and toddler food maker. &quot;Some kids
+experience a fear of unknown food. Don&#39;t argue with your child or plead with him to eat -- you don&#39;t
+want mealtime to turn into a daily battle,&quot; explains Marlow. &quot;And don&#39;t turn into a short-order cook,
+either. Keep putting a variety of healthy foods in front of your child and eventually he will eat it. Trust
+me, he&#39;s not going to starve!&quot;\n\n
+Trying new things will be easier if he sees you eating them, so make a habit of sitting down with your
+child during mealtimes. Although many parents practice the technique of hiding veggies in sauces and
+such, Marlow points out that it&#39;s still important to offer the nutritious food on its own. &quot;You want your
+child to get used to seeing different foods on his plate every night, and eventually he will start eating
+them on his own.&quot;\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sleep \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="By the time your child hits age 2, she&#39;ll need to sleep for 11 hours at night and two
+during the day. &quot;Toddlers and preschoolers can be a lot of fun, but bedtime can be a real
+challenge,&quot; says Kim West, LCSW-C, aka The Sleep Lady. &quot;They&#39;re learning to follow
+simple directions, yet they also test our rules and their limits. They&#39;re extremely eager to
+explore, leading to more limit testing and boundary breaking.&quot;\n\nOne of the things parents need to look out for is a toddler trying to climb out of her crib.
+West recommends not making the transition from crib to a bed until your toddler is at
+least 2 1/2 years old. &quot;By then, a child has the verbal skills to understand the &#39;big bed&#39;
+rules and to communicate with you when she has gotten out of bed for the 20th time that
+night.&quot; In the meantime, you can keep your child safe in her crib with these tips:\n
+-Place the mattress as low as it goes.\n\n- Put pillows on the ground around the crib to cushion falls.\n\n- Remove any large toys or stuffed animals from the crib that he may be able
+to step up on.\n\n- When your child does get out, return him to the crib with minimal interaction and
+say, &quot;No climbing.&quot;\n\n- Stay nearby at bedtime and peek through the door. If you see your child start to
+raise his leg say, &quot;No climbing.&quot;\n\n- Get a mesh crib tent. Put a positive spin on it by decorating it.\n\n- Dress your child in a &quot;sleep sack&quot; so he won&#39;t be able to raise his leg over the crib
+rail."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social Development \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Children at this age typically engage in parallel play, playing next to another child, but they&#39;re also
+becoming more socially interactive, so it&#39;s important to let your child engage with other kids, says Jessica
+Mercer Young, Ph.D., a research scientist at Education Development Center in Newton, MA. &quot;Children at
+this age may also really enjoy playgroups centered on music or gross motor activity. Sharing is, of
+course, tricky at this age as 2-year-olds have difficulty taking another child&#39;s perspective. Modeling
+sharing and taking turns, pointing out when you share and take turns, and when others share and take
+turns, may help your child to learn these important social actions.&quot; When siblings are involved and a
+fight breaks out over a toy, Dr. Young suggests using a timer to alleviate the fighting, as it helps the
+children to take turns (for example, each child will be able to play with the toy for two minutes). This
+strategy may need to be used for a long time (especially for siblings), but by age four children are better
+able to share and take turns.\n\n\nChildren at age two can also imitate their parents. &quot;This is a great way to have your child help clean up!&quot;
+says Dr. Young. &quot;They will imitate Mom or Dad picking up toys and putting them in a bin.&quot; In addition,
+they will mimic your words (so watch your language!) and other your actions, so if your child sees you
+being kind to others, he is more than likely to follow suit.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Education \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Aside from learning colors and increasing his vocabulary, a 2-year-old is also learning how to sort into
+categories, even if it&#39;s just toys into one basket and blankets into another, says Susan Cooper, M.Ed.,
+early child development expert. Your child will also learn to identify simple pictures, such as a ball, dog,
+cat, etc -- and he should start being able to point out family members in photos as well. He enjoys
+looking at books and singing, can point to eyes, ears, and nose when asked, will repeat words and say a
+two- to three-word sentence (more on that in the Speech section), and is interested in learning how to
+use common items, such as a hairbrush and even childproof scissors.\n\n\n
+You can encourage the learning process by letting him help you with simple chores, such as picking up
+toys or putting clothes in the laundry basket. Always identify what he is doing and using so that he&#39;s
+constantly being exposed to new words. Most 2-year-olds enjoy coloring, so a blank piece of paper with
+some crayons, markers, or watercolors can keep him occupied and help him express his creativity. Don&#39;t
+bother with coloring books, as it&#39;s too early for him to learn how to color inside the lines.&#39;\n\n\n
+At age two, children should also start learning some self-help skills, like putting on clothes and going to
+the potty, says Cooper (she does point out that boys typically potty train during their third year)."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+</ScrollView>

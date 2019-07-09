@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F1F1"
+    android:orientation="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Physical Development: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="&quot;Physical development consists of both gross motor (GM) and fine motor
+(FM) development,&quot; says Cheryl Wu, M.D., of LaGuardia Place Pediatrics
+in New York City. &quot;And while every child develops at their own pace,
+there are certain milestones I expect most of my patients (90 to 95
+percent) to achieve by their fifth birthday.&quot; By age 5, a child can do most
+of the gross motor skills; she can jump high, run, climb well, and start to
+do more advanced movements like ballet or gymnastics or karate. A 5-
+year-old can draw a triangle and write her own name, and usually has a
+preferred handedness by now. (Some children still remain ambidextrous
+at this age.)\n\nYou&#39;ll be preparing your child for kindergarten now. &quot;Most teachers want
+kindergarteners to know how to hold a pencil correctly and to be able to
+use safety scissors, and those are tasks a parent can practice at home,&quot;
+says Brenda Rogers, M.D., a general pediatrician at Children&#39;s Mercy
+Hospitals and Clinics in Kansas City, MO. Even though children this age
+are developing better coordination, they still need our oversight to avoid
+serious injuries.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Behavior \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Your 5-year-old is comfortable with a little more independence, which
+means she enjoys being around other family members and friends more.
+Your child is all about testing boundaries and might even demand to do
+things on her own. Some you should encourage (making her own bed --
+don&#39;t worry if it&#39;s not perfect) and some you need to stand firm on
+(bathing alone).\n\nWith your child starting (or about to start) kindergarten, pay attention to
+her ability to follow direction and get along with others, says Carl
+Sheperis, Ph.D., the director of doctoral programs for Walden
+University&#39;s School of Counseling and Social Service. &quot;If you see your
+child becoming more aggressive or oppositional once she starts school,
+figure out the reasons behind the behavior now. It is much easier to
+address any behavioral issues now than it will be in the teen years.&quot; It&#39;s
+important to reinforce good behavior through praise, and to set clear
+limits so that your child knows what to expect. If your child has
+some homework, ask if she&#39;d like to do it right away when she gets home
+or if she&#39;d rather unwind for 30 minutes before starting it. Chances are,
+she&#39;ll choose the latter, but once those 30 minutes are up, remain firm.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Language \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="A child has mastered speech sounds and people should understand what
+he is saying to them. &quot;A 5-year-old will have a pretty vast vocabulary,&quot;
+says Lauren Krause, Chief of Speech-Language Pathology at La Rabida
+Children&#39;s Hospital in Chicago, IL. &quot;If you&#39;re still concerned and counting
+how many words he can say, then that is a clear sign of a delay.&quot;\n\n
+Your child is able to express himself more clearly; he&#39;s able to give
+explanations, retell stories, and put together sentences to make himself
+understood. &quot;Kindergartners are also starting the reading process, so it&#39;s
+important to continue to read to your child and work on his own reading
+capabilities,&quot; says Krause. A slight lisp at this age is normal, but if it
+persists beyond age 6, you should talk to your pediatrician about the
+possibility of speech therapy.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Your child is (or will be) entering kindergarten, so it&#39;s important that he is
+up-to-date on all of the required immunizations. Every state has its own
+standards, but your child&#39;s pediatrician should guide you. After the doctor
+checks to see if any vaccinations are needed, your child will be weighed
+and measured. A 5-year-old typically gains about four pounds and grows
+about two inches during the year. There will also be vision and hearing
+tests performed, as well as a tuberculosis test and a blood test for lead
+poisoning. Your doctor will ask your child some questions to see how his
+speech is progressing, if there is any sign of a delay or impediment, and
+how the gross and fine motor skills are developing on track.\n\n
+Your little one might also be playing sports now, and there is a potential
+for dental injury. If your child&#39;s tooth is chipped, broken, or knocked out,
+contact your pediatric dentist immediately. This can save the tooth and
+prevent infection. If the tooth is knocked out, rinse it off with cool water
+and, if possible, replace it in the socket immediately (hold it there with
+clean gauze if necessary). If you can&#39;t put it back, place it in a container
+with cold milk, water, or saliva. Then head to the dentist. According to the
+American Academy of Pediatric Dentistry, baby teeth should not be
+replanted because of the potential for subsequent damage to the
+developing permanent tooth. &#39;\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nutrition \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Portion sizes don&#39;t change from the previous year: He can handle adult
+portions but keep them manageable and keep snacking to a minimal.
+&quot;Kids this age have a tendency to fill up on snacks, which interferes with
+mealtime,&quot; says Amy Marlow, a New York-based registered dietician and certified nutritionist serving as an advisor for Happy Family, the nation&#39;s
+leading premium organic baby and toddler food maker. &quot;Kids should be
+eating three meals a day, along with two healthy snacks.&quot;\n\n
+Expand your child&#39;s horizons when it comes to trying new foods. If he
+eats lunch at school, he might not be getting much variety, so it&#39;s
+important to make the most of the meals served at home. Be sure to limit
+foods high in fat and sugar, and concentrate on serving fruits,
+vegetables, lean meats, and low-fat dairy products. &quot;You want to choose
+different foods for them to try,&quot; says Marlow. &quot;If they don&#39;t want to try it at
+first, don&#39;t give up. When they&#39;re hungry, they will eat what&#39;s in front of
+them -- even the healthy stuff!&quot; Establish a family mealtime so that your
+child considers eating well a fun activity.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sleep \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Once your child turns 5, he&#39;ll be sleeping about 11 hours each night.
+Although he&#39;s not napping anymore, quiet time in the late afternoon is
+still beneficial. Whether he sits with some books or lies down quietly, be
+sure he gets some time to rest, says Kim West, LCSW-C, aka The Sleep
+Lady. &quot;This will help avoid any meltdowns before dinner.&quot;\n\n
+Get your child up somewhere between 6 A.M. and 7:30 A.M., depending
+on what time school starts. Many parents deal with kids who are waking
+up too early, a habit that West says you should nip in the bud. &quot;Anything
+before 6 A.M. is too early,&quot; she says. &quot;Some parents will let their child get
+up too early as long as the child will sit quietly and watch TV. But waking
+up too early in the morning can affect the rest of his day, and he&#39;ll be
+exhausted when he&#39;s in school.&quot;\n\n A common complaint from elementary school teachers is that students
+are too tired in class. &quot;Lack of sleep affects their learning and memory
+abilities, so it&#39;s important that they get enough sleep.&quot; If your child is an
+early riser, it probably means that he&#39;s going to sleep too late at night.
+&quot;Adjust your child&#39;s exact bedtime and wake-up time to coincide with your
+family schedule and his school-start time,&quot; says West."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social Development \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="By age 5, children are socially interactive and communicative. They can
+follow simple games with rules and begin to enjoy board games. The
+biggest milestone for this age is going to kindergarten. &quot;This can be a
+huge adjustment socially and even the most gregarious child may feel
+shy and reticent,&quot; says Jessica Mercer Young, Ph.D., a research scientist
+at Education Development Center in Newton, MA. &quot;Having your child
+spend time in the new classroom, meeting the teacher, talking about the
+transition, reading books about going to kindergarten, and setting up
+playdates or opportunities to meet other children before school starts are
+all very helpful.&quot;\n\nDr. Young suggests that once school starts, set up a playdate with
+someone that your child has expressed an interest in getting to know,
+and help foster the relationship. &quot;Having one good friend in kindergarten
+can make the transition to school easier for all,&quot; she says.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Education \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="The sky&#39;s the limit as to what your child will be learning. Many of the
+lessons (letters, numbers, colors) are subjects she might have already mastered in preschool. She&#39;ll start writing upper and lowercase letters
+and, eventually, words, her name, address, and phone number.
+Kindergartners learn how to match the sound to each letter; identify,
+draw, cut, and name shapes; classify and group objects according to
+characteristics; and use their five senses to identify items.\n\n
+Your child will begin learning to read, which can be a daunting task for
+both parent and child. How can you help them? Increase their
+vocabulary, says Susan Cooper, M.Ed., early child development expert
+at www.appliedscholastics.org. &quot;This doesn&#39;t mean sitting with a
+dictionary and memorizing words. What it means is learning new words,
+using the new words, and seeing the new words. When parents go into a
+grocery store with their children, make it a learning experience by
+showing what unusual fruits and vegetables are there and using the new
+words in conversation. The new words will show up in some reading
+assignment and your child will know what the word means. The more
+words a child knows, the easier reading becomes.&quot;\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+</ScrollView>

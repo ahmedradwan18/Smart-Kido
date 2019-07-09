@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F1F1"
+    android:orientation="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Physical Development: \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="&quot; while every child develops at his own pace, there are certain milestones I expect most
+of my patients (90 to 95 percent) to achieve by the first birthday.&quot; (says Cheryl Wu, M.D.,
+of LaGuardia Place Pediatrics in New York City).\n\nAnd By 12 months, children are either very proficient crawlers and/or are cruising easily
+around using furniture as support, says Dr. Wu. They may also be walking or &quot;toddling&quot;
+quite well. You can encourage cruising and walking by letting your child move around
+without help, so be sure to childproof your house sooner rather than later. Try not to pick
+him up and carry him too often. Although it might take you a little longer to get from room
+to room, you want to give him as much opportunity to move freely in a safe environment
+as you can. You might also want to arrange furniture so that it&#39;s easier for him to grab
+hold and move from place to place while cruising.\n\nAnd By 12 months, children are either very proficient crawlers and/or are cruising easily
+around using furniture as support, says Dr. Wu. They may also be walking or &quot;toddling&quot;
+quite well. You can encourage cruising and walking by letting your child move around
+without help, so be sure to childproof your house sooner rather than later. Try not to pick
+him up and carry him too often. Although it might take you a little longer to get from room
+to room, you want to give him as much opportunity to move freely in a safe environment
+as you can. You might also want to arrange furniture so that it&#39;s easier for him to grab
+hold and move from place to place while cruising.\n\nWorried your child isn&#39;t hitting his milestones quickly enough? &quot;The best thing parents
+can do to make the most of their visits with their child&#39;s pediatrician -- if they are
+interested in development -- is to ask the doctor directly what their child should be able to do, or anything they can work on,&quot; says Dr. Wu. &quot;Child development is a magical
+thing. There is quite a large variation, but throughout the world, children from different
+cultures follow roughly the same pattern in development as they age.&quot;\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Behavior \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Separation anxiety is typical at this age and may start between 8 and 14 months old.
+&quot;The timing and intensity of the separation anxiety may be different for different
+children,&quot; says Jessica Mercer Young, Ph.D., a research scientist at Education
+Development Center in Newton, MA. &quot;A little anxiety about Mom leaving is totally normal.
+Parents can help their child during separations, such as drop-off to childcare, by having
+a goodbye routine. Create this routine and stick to it, and try not to drag out the
+separation, as this can intensify the child&#39;s anxiety. &quot;\n\n
+A big mistake is trying to leave when the child is not looking or sneaking away when the
+child is engaged in activity, without saying goodbye. &quot;The child may suddenly become
+anxious or upset that she didn&#39;t get a chance to say goodbye or give a kiss goodbye,&quot;
+explains Dr. Young. &quot;Even if the child becomes upset and cries, he should stop crying
+soon after the parent leaves. I&#39;ve often stood outside the door of the preschool to wait for
+my child to stop crying. He always does and pretty quickly too! Having a regular
+caregiver is also important so that children can develop a sense of trust.&quot;\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Language \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="As you can guess, a 1-year-old has a pretty limited vocabulary. There are probably a few
+words here and there -- mama, dada, baba, for example -- but most of it is simply your
+child vocalizing. &quot;It&#39;s more about babbling than talking at this point,&quot; says Lauren Krause,
+Chief of Speech-Language Pathology at La Rabida Children&#39;s Hospital in Chicago, IL. In
+fact, what&#39;s most important now is that your child respond to other&#39;s speaking. Does she
+recognize her mom&#39;s and dad&#39;s voices? Does she respond to her name? Does she raise
+her arms when you say &quot;up?&quot; Is there reaction to noises, such as the vacuum being
+turned on, or a car horn? Does she laugh when others laugh or react when people smile
+at her? If not, then you should consult your pediatrician.\n\n
+Over the course of this year, you will notice your child start to say single words on her
+own. She will also start to be able to follow simple directions (e.g., &quot;Where&#39;s your
+nose?&quot;) &quot;The most important way to develop your child&#39;s language is through talking to
+her,&quot; says Krause. &quot;In fact, 90 percent of kids learn words through repeating and
+imitating their parents and others around them.&quot; Read to your child, but also participate
+in some &quot;conversations&quot; with them. &quot;It can be as simple as &#39;What&#39;s that? A dog! What is
+the dog doing? He&#39;s running,&#39;&quot; explains Krause. &quot;You want to engage with them as much
+as possible and expose them to a variety of words.&quot;\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="During your child&#39;s 1-year well-visit, you will discuss several issues with the pediatrician.
+One of the big ones: Is your child walking yet? &quot;Most babies walk somewhere between
+12 and 17 months,&quot; explains Nora Carrillo, a specialist for the medical model of child
+development at Phoenix Children&#39;s Hospital in Phoenix, AZ. &quot;But at the very least, a
+doctor will want to know if your child is crawling, standing up, and starting to cruise on
+his own.&quot;\n\nYour doctor will weigh and measure your child to make sure he&#39;s growing at a healthy
+rate, as well as talk to you about (and possibly administer) the next round of
+vaccinations. Depending on what kind of schedule you and your doctor have agreed
+upon, some common vaccinations due at this time include varicella (chicken pox), Hib,
+pneumococcal, polio (the third dose), MMR, and Hepatitis A.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nutrition \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="The big change for baby at age one: the introduction of whole milk into her diet. &quot;If you&#39;re
+worried about your child making the transition, you can start off by mixing the whole milk
+with formula/breast milk so that you can ease her into the taste,&quot; recommends Amy
+Marlow, a New York-based registered dietician and certified nutritionist serving as an
+advisor for Hapy Family, the nation&#39;s leading premium organic baby and toddler food
+maker. She suggests offering only milk in a sippy cup, as you&#39;re about to wean baby off
+the bottle anyway, and you don&#39;t want to mix the two transitions together.\n\n
+Your baby should be getting about 16 to 24 ounces of milk per day -- more than that can
+interfere with iron absorption and affect her ability to eat other foods, as she&#39;ll be filling
+up on milk, says Marlow. And although cheese and yogurt are good sources of Vitamin D
+and calcium, they don&#39;t pack as much of a nutritional punch as whole milk does.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sleep \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Your baby&#39;s sleep patterns will change a bit during the course of the coming year. He&#39;ll still need
+an average of 11 1/4 hours of uninterrupted sleep during the night, but somewhere between 15
+to 18 months is when baby will typically drop the morning nap and take one long siesta in the
+middle of the day (for about 2 1/4 hours). &quot;This a tricky stage because there is usually a point
+when one nap is not enough and two naps are too many,&quot; says Kim West, LCSW-C, aka The
+Sleep Lady. &quot;The result is an overtired child who doesn&#39;t sleep well at night.&quot;\n\n
+West says you&#39;ll know your child is ready for this milestone when he consistently gets 10 to 11
+hours of uninterrupted sleep at night, takes longer and longer to fall asleep for his morning nap,
+and takes increasingly shorter morning naps or sleeps for too long in the morning and then
+refuses an afternoon nap. Once you see the pattern emerging for about two weeks, you can
+make the transition to one nap per day. But stay open to an occasional two-nap day. &quot;If, during
+the transition, your child seems too tired, it&#39;s okay to let her nap twice -- just limit the morning
+snooze to 45 minutes,&quot; explains West.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social Development \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="In the first year, social interactions are largely connected with the primary caregiver, says Jason
+Gold, Ph.D. a consultant at the Pacella Parent Child Center in New York City. &quot;It is this
+relationship that is most important in the first year. There are, or course, significant interactions
+with peers and other adults in the first year, but they are relegated to secondary status in the
+first year.&quot;\n\nAt age one, babies will point and vocalize to communicate. &quot;Learning to communicate your
+wants, needs, and intentions is incredibly important for social development,&quot; says Dr. Young.
+&quot;Pointing in particular is an important milestone as it allows the parent to engage in the baby&#39;s
+attention.&quot;\n\nDr. Young says that when both the baby and the parent are focused on the same object or
+activity, it is called &quot;joint attention.&quot; This usually occurs when a parent follows the baby&#39;s gaze or
+pointing gesture. This is very significant, as it is an important context for language development,
+social development and cognitive development. Reading to your child and pointing at pictures in
+books, labeling objects and talking about them, as well as expanding on your child&#39;s interests, is
+a great way to interact at this age.\n\n\n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Education \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="Your child has mastered a lot over the past year, and he&#39;ll learn even more -- walking, talking,
+jumping -- as this year progresses. &quot;At age one, some self-help skills are expected, such as
+holding a bottle and a sippy cup,&quot; says Susan Cooper, M.Ed., early child development. &quot;It&#39;s not
+expected that the child be potty trained at this age, but there should be words for having a bowel
+movement that are understood by the child and his or her caregivers. If there is one word used,
+then potty training is so much easier later on. More important than any academic learning is
+mimicry. Having the 1-year-old do what you do is important to further learning.&quot; Of course,
+reading to your child will help him learn new words, colors, and letters, so continue to make that
+a part of your daily and nightly routine. Studies show that children who were read to have a
+larger vocabulary, as well as more advanced mathematical skills, compared with kids their age.\n\n
+Choose picture books with big, bright, clear images, and ask questions as you read: Can you
+find the dog? What does the dog say? A 1-year-old should respond to his name and start
+pointing and identifying his nose, eyes, mouth, etc. He might not be able to say these words yet,
+but you can work with him on pointing to them on his face and yours."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
+</ScrollView>

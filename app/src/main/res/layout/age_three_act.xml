@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F1F1"
+    android:orientation="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Physical Milestones \n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+
+        />
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:text="This year children are working to get better at the gross and fine motor skills they developed as 2-year-olds. They start doing some new things, too. Most 3-year-olds learn to do things like these by the time they’re 4:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="20sp"
+    android:layout_margin="8dp"
+    android:text="Gross Motor Skills \n- Run and walk without tripping over own feet
+\n- Jump, hop and stand on one foot\n- Walk backwards and climb stairs one foot after the other\n- Kick and throw a small ball; catch a bigger ball most of the time
+\n- Climb\n- Start pedaling a tricycle or bike\n\nFine Motor Skills\n- Draw a circle with a crayon, pencil or marker (Get tips to help young kids learn to write.)
+\n- Play with toys with small moving parts and buttons\n- Turn the pages of a book one at a time\n- Build with Mega Bloks and create towers of six or more blocks
+\n- Work door handles and twist-on bottle tops\n"
+    android:textStyle="italic"
+    />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cognitive Milestones\n"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This year, children start learning new things about the world. They often think of creative
+approaches to tasks and activities. By the end of this year, typical cognitive milestones
+include being able to do things like:\n- Name the eight colors in a crayon box (red, yellow, blue, green, orange, purple, brown,
+black)\n- Recite numbers to 10 and start counting groups of things\n- Start understanding time in terms of morning, night and days of the week
+\n- Remember and retell favorite stories/n- Understand and talk about things that are the “same” and “different”
+\n- Follow simple three-step directions (“Brush your teeth, wash your face and put on your
+pajamas.”)\n\n"
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:textStyle="italic"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social and Emotional Milestones\n"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_margin="8dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:text="Three-year-olds are an interesting mix of independent, playful and fearful. By the end of
+their fourth year, most 3-year-olds do these things:/n- Be interested—although hesitant—about going new places and trying new things
+\n- Start to play with children (as opposed to only playing side-by-side)\n- Start being able to comfort and show concern for an unhappy friend without prompting
+\n- Take turns while playing (even if they don’t like to)\n- Play “real life” with toys like play kitchens
+\n- Start finding simple ways to solve arguments and disagreements
+\n- Show (but maybe not name) a variety of emotions beyond happy, sad and mad\n
+Learn more about social-emotional skills to expect at different ages.\n\n
+Remember that kids develop at different rates. If your child is late to do a few of these
+things, don’t panic. If your 3-year-old isn’t able to do many of these things as he approaches
+age 4, consider talking to his doctor about an evaluation to look at your child’s skills.\n\n- Name the eight colors in a crayon box (red, yellow, blue, green, orange, purple, brown,
+black)\n- Recite numbers to 10 and start counting groups of things\n- Start understanding time in terms of morning, night and days of the week
+\n- Remember and retell favorite stories\n- Understand and talk about things that are the “same” and “different”
+\n- Follow simple three-step directions (“Brush your teeth, wash your face and put on your
+pajamas.”)"
+        android:textSize="20sp"
+        android:layout_margin="8dp"
+        android:textStyle="italic"
+        />
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+</ScrollView>
